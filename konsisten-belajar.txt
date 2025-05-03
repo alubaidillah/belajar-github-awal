@@ -3,3 +3,4 @@ Rencana belajar Al Ubaidillah
   *ES6
 - React
 - HTML dan CSS
+- struktur data dasar
