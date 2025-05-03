@@ -1,4 +1,5 @@
 Rencana belajar Al Ubaidillah
 - Javascript
+  *ES6
 - React
 - HTML dan CSS
