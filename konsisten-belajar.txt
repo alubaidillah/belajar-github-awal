@@ -2,5 +2,7 @@ Rencana belajar Al Ubaidillah
 - Javascript
   *ES6
 - React
+  *bisa terus belajar
+  *tenang dalam segala keadaan
 - HTML dan CSS
 - struktur data dasar
