@@ -1,0 +1,4 @@
+Rencana belajar Al Ubaidillah
+- Javascript
+- React
+- HTML dan CSS
